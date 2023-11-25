@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Branding_card/static/css/main.8ebfad4a.css",
+    "main.js": "/Branding_card/static/js/main.29cb4190.js",
+    "static/media/Hammad.jpg": "/Branding_card/static/media/Hammad.95d5916dfec66d338fe3.jpg",
+    "index.html": "/Branding_card/index.html",
+    "main.8ebfad4a.css.map": "/Branding_card/static/css/main.8ebfad4a.css.map",
+    "main.29cb4190.js.map": "/Branding_card/static/js/main.29cb4190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebfad4a.css",
+    "static/js/main.29cb4190.js"
+  ]
+}
