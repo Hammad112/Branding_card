@@ -48,3 +48,6 @@ yarn start
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Make sure to follow the project's code style and conventions.
 
+
+## Acknowledgments
+This branding card is designed to empower individuals like myself, providing a platform to amplify my skills and showcase my journey in web development. Embrace this opportunity to elevate my personal branding and embark on new horizons of success.
