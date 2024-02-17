@@ -1,7 +1,7 @@
 
 # Branding Card
 
-The Skills Showcase Branding Card is a project designed to help to present my skills effectively while boosting productivity and implementing my learning while doing such projects.
+The  Branding Card is a project designed to help to present my skills effectively while boosting productivity and implementing my learning while doing such projects.
 
 
 ## Demo
