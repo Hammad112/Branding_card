@@ -1,9 +1,7 @@
 
 # Branding Card
 
-This is a WhatsApp clone built for desktop using React and Tailwind CSS. It mimics the functionality and design of the popular WhatsApp messaging application. This project utilizes several key React concepts such as useRef, useState, Props, Flex, and many others to create a responsive and interactive user interface.
-
-
+The Skills Showcase Branding Card is a project designed to help to present my skills effectively while boosting productivity and implementing my learning while doing such projects.
 
 
 ## Demo
